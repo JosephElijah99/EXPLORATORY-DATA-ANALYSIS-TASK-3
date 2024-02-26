@@ -1,4 +1,8 @@
-# EXPLORATORY-DATA-ANALYSIS-TASK-3
+# EXPLORATORY DATA ANALYSIS ON CAR SALES DATASET
+# DATA SCIENCE: TEAM 13
+# 26TH FEBRUARY, 2024
+
+
 OVERVIEW
 
 This project aims to conduct exploratory data analysis (EDA) on a dataset containing car sales data. The dataset includes information on various attributes such as sales volume, price, horsepower, engine size, and others. The primary objectives of the analysis are to uncover insights, trends, and patterns within the dataset, as well as to address specific questions related to the automotive industry.
