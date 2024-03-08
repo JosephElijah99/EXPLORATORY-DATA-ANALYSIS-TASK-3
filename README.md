@@ -52,6 +52,8 @@ c. NumPy
 
 d. Seaborn
 
+e. Matplotlib
+
 RESULTS
 
 The analysis revealed several insights and findings regarding car sales trends, pricing dynamics, fuel efficiency, and manufacturer performance. Visualizations and statistical summaries provided a comprehensive understanding of the dataset, aiding decision-making in the automotive industry.
